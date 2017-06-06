@@ -3,7 +3,7 @@ package exercise;
 import exercise.realdatabase.UserFacadeRealDB;
 
 /**
- * Created by ms on 06-06-17.
+ * Created by ms on 06-06-17..
  */
 public class UserFacadeIT extends UserFacadeTest {
     @Override
