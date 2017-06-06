@@ -1,0 +1,9 @@
+exercise/realdatabase/SystemUser.class
+exercise/FailedLogin.class
+exercise/realdatabase/UserFacadeRealDB.class
+exercise/Authenticator.class
+exercise/realdatabase/travis/SystemUser_.class
+exercise/IUserFacade.class
+exercise/realdatabase/db_original/SystemUser_.class
+Utils/Mailer.class
+exercise/LoginStatus.class

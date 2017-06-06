@@ -1,0 +1,7 @@
+/home/ms/Projekter/Skole/Test/mockexercise_auth/src/main/java/exercise/Authenticator.java
+/home/ms/Projekter/Skole/Test/mockexercise_auth/src/main/java/exercise/realdatabase/UserFacadeRealDB.java
+/home/ms/Projekter/Skole/Test/mockexercise_auth/src/main/java/exercise/realdatabase/SystemUser.java
+/home/ms/Projekter/Skole/Test/mockexercise_auth/src/main/java/exercise/FailedLogin.java
+/home/ms/Projekter/Skole/Test/mockexercise_auth/src/main/java/exercise/LoginStatus.java
+/home/ms/Projekter/Skole/Test/mockexercise_auth/src/main/java/Utils/Mailer.java
+/home/ms/Projekter/Skole/Test/mockexercise_auth/src/main/java/exercise/IUserFacade.java
